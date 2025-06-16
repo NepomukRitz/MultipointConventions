@@ -9,7 +9,7 @@ $$
 
 ## Action
 $$
-S[\overline{c},c] = S_0[\overline{c},c] + S_{\mathrm{int}} [\overline{c},c] = \overline{c}_{1'} [G_0^{-1}]_{1'|1} c_{1} + \tfrac{1}{4} \overline{c}_{{1'}}  \overline{c}_{{2'}} [\Gamma_0]_{{1'}{2'}|{1}{2}} c_{{2}} c_{{1}}
+S[\overline{c},c] = S_0[\overline{c},c] + S_{\mathrm{int}} [\overline{c},c] = \overline{c}_{1'} [G_0^{-1}]_{1'|1} c_{1} + \tfrac{1}{4} \overline{c}_{1'}  \overline{c}_{2'} [\Gamma_0]_{1'2'|12} c_{2} c_{1}
 $$
 The multi-indices comprise all dependencies of the Grassmann variables, i.e., time, Keldysh contour index, spin, and all other dependencies and quantum numbers there might be. Einstein summation convention is used. Contracting time and Keldysh indices thus means an integration along the Keldysh contour. 
 
