@@ -23,12 +23,12 @@ $$
     [G_0^{-1}]_{1'|1} = \delta_{1'|1} i\partial_{t_1} - h_{1'|1}\, ,
 $$
 where 
-\(h_{1'|1}\) is extracted from the single-particle Hamiltonian, \(H_0[\overline{c},c] = \overline{c}_{1'}h_{1'|1}c_1\).
+$h_{1'|1}$ is extracted from the single-particle Hamiltonian, $H_0[\overline{c},c] = \overline{c}_{1'}h_{1'|1}c_1$.
 
 ## Bare interaction
 <img src="img/bare.png" alt="Alt Text" width="400"/>
 
-In terms of explicit Keldysh **contour** indices $j$, spin indices $\sigma$, and time indices $t$, where the indices \(q\) shall label all other indices there might be, the bare interaction reads
+In terms of explicit Keldysh **contour** indices $j$, spin indices $\sigma$, and time indices $t$, where the indices $q$ shall label all other indices there might be, the bare interaction reads
 $$
 [\Gamma_0]^{j_{1'}j_{2'}|j_1 j_2}_{\sigma_{1'}\sigma_{2'}|\sigma_1 \sigma_2}(t_{1'},t_{2'}|t_1,t_2 ; q_{1'},q_{2'}|q_1 q_2) 
 = -j_1 \delta_{j_{1'}=j_{2'}=j_{1}=j_{2}} \delta(t_{1'}=t_{2'}=t_{1}=t_{2})
@@ -39,7 +39,7 @@ $$
 $$
 [G_0]_{1|1'} = -i \langle \mathcal{T_\mathcal{C}}\,  c_1 \overline{c}_{1'}\rangle_0 = \frac{-i}{\mathcal{Z}_0} \int \mathcal{D}[\overline{c},c]\, c_1 \overline{c}_{1'} e^{iS_0[\overline{c},c]}
 $$
-with the non-interacting partition function \(\mathcal{Z}_0 = \int \mathcal{D}[\overline{c},c]\,  e^{iS_0[\overline{c},c]}\).
+with the non-interacting partition function $\mathcal{Z}_0 = \int \mathcal{D}[\overline{c},c]\,  e^{iS_0[\overline{c},c]}$.
 
 ## Full two-point function (propagator)
 $$
@@ -63,7 +63,7 @@ yielding the connected contribution,
 $$
 G^{(4)}_{c;\,12|1'2'} = - G_{1|3'} G_{2|4'} \Gamma_{3'4'|34} G_{3|1'} G_{4|2'}\, 
 $$
-which involves the **four-point vertex** \(\Gamma\).
+which involves the **four-point vertex** $\Gamma$.
 
 ## Still to do
 
