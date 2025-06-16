@@ -8,6 +8,8 @@ title: MultipointConventions
 
 Conventions for real-frequency quantum field theory in the Keldysh formalism, as used in [^1] [^2] [^3] [^4].
 
+## Basic building blocks
+
 <table class="booktabs">
   <thead>
     <tr>
@@ -39,7 +41,7 @@ Conventions for real-frequency quantum field theory in the Keldysh formalism, as
             \]
         </td>
         <td> \(-\) </td>
-        <td> The multi-indices comprise all dependencies of the Grassmann variables, i.e., time, Keldysh contour index, spin, and all other dependencies and quantum numbers there might be. Einstein summation convention is used. Contracting time and Keldysh indices thus means an integration along the Keldysh contour.  </td>
+        <td> Multi-indices: time, Keldysh contour index, spin, etc. Einstein summation convention is used.<br> Contracting time and Keldysh indices means an integration along the Keldysh contour.  </td>
     </tr>
     <tr>
         <td> Bare interaction </td>
@@ -134,14 +136,26 @@ Conventions for real-frequency quantum field theory in the Keldysh formalism, as
 </table>
 
 
-## Still to do
 
-- Keldysh contour
-- Keldysh rotation
-- FDT
-- spin components
-- symmetries (crossing, parity, ...)
-- more diagrams
+# Still to do
+
+## Two-particle channels
+
+- parquet decomposition
+- frequency parametrization
+
+## Spin components
+
+## Keldysh contour, Keldysh rotation, FDT
+
+## Symmetries
+
+- crossing
+- parity
+- complex conjugation
+- ...
+
+
 
 
 # References
