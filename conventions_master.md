@@ -1,6 +1,6 @@
 # KeldyshQFT
 
-Conventions for real-frequency quantum field theory in the Keldysh formalism, as used in [1], [2], [3], [4], [5].
+Conventions for real-frequency quantum field theory in the Keldysh formalism, as used in [^1], [^2], [^3], [^4], [^5].
 
 
 # References
